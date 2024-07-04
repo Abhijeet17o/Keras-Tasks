@@ -4,6 +4,6 @@ This repository contains my solutions for **Infomatrix** tasks completed using K
 
 ## Contents
 
-- **Task 1: MNIST Task**
+- **Task 1: MNIST Data Prediction Task**
   - Simple prediction model using Sequential Model in Keras
 
